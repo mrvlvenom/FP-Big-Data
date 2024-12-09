@@ -18,7 +18,7 @@ Anggota Kelompok:
 
 ## Architecture Data Lakehouse
 
-![](https://github.com/mrvlvenom/FP-Big-Data/blob/main/img/architecture.png)
+![](https://github.com/mrvlvenom/FP-Big-Data/blob/main/data/Frame%201.png)
 
 ## Directory Structure
 Below is an directory structure for your project:
