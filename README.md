@@ -2,7 +2,7 @@
 ## E-Commerce Walmart
 ---
 
-Kelompok: 5
+Kelompok: 4
 
 Anggota Kelompok:
 
@@ -12,7 +12,7 @@ Anggota Kelompok:
 |2|Iki Adfi Nur Mohamad|5027221033|
 |3|Rahmad Aji Wicaksono|5027221034|
 |4|Ilhan Ahmad Syafa|5027221040|
-|5|Muhammad Arsy Athallah|5027221006|
+|5|Muhammad Arsy Athallah|5027221048|
 
 ---
 
