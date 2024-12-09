@@ -1,12 +1,5 @@
 # Final Project Big Data dan Data Lakehouse
-## E-Commerce Walmart
-
-- Dataset:
-
-https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset
-
 ---
-
 Kelompok: 4
 
 Anggota Kelompok:
@@ -19,7 +12,12 @@ Anggota Kelompok:
 |4|Ilhan Ahmad Syafa|5027221040|
 |5|Muhammad Arsy Athallah|5027221048|
 
----
+## E-Commerce Walmart
+
+- Dataset:
+
+https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset
+
 
 ## Architecture Data Lakehouse
 
