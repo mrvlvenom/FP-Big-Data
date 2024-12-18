@@ -71,17 +71,4 @@ and
 docker-compose up
 ```
 
-This will start all services: PostgreSQL, Kafka, PySpark, and Streamlit.
-
-## Access Services
-
-- PostgreSQL: Connect to it via localhost:5432.
-- Kafka: Listen on localhost:9092.
-- Streamlit UI: Access at http://localhost:8501.
-
-## Testing Workflow
-
-- Load the dataset into PostgreSQL or Hive (Storage Layer).
-- Kafka streams data in real-time.
-- PySpark trains the recommendation model.
-- Streamlit displays product recommendations to users.
+This will start all services: Zookeper, MinIo, Kafka, PySpark, and Streamlit.
