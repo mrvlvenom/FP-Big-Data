@@ -72,3 +72,19 @@ docker-compose up
 ```
 
 This will start all services: Zookeper, MinIo, Kafka, PySpark, and Streamlit.
+
+Here's the result of the data after through several stages of the process
+
+![image](https://github.com/user-attachments/assets/f4358207-cbf2-43f6-bcea-b250992d2290)
+
+**Image age 0-17**
+
+![image](https://github.com/user-attachments/assets/a553ee1d-7156-4818-b8f1-05d9f9321e4f)
+
+**Image age 46-50**
+
+![image](https://github.com/user-attachments/assets/a2240e1a-f73d-4b39-af5b-53d87344e390)
+
+**Image age 55+**
+
+
